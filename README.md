@@ -1,7 +1,7 @@
 <div align="center" style="width:100%; background-size: cover;background-position: center;background-color: #FFFFFF;
   background-repeat: no-repeat; ">
 
-  # PLACE LOG/Image
+  # PLACE LOGO/Brand/Image
 
 <!-- ![ChapsChatLogo](https://github.com/Gaudenz77/CHapsCHat-App-Mark1/assets/42372680/4d5f828f-1bee-416d-a1c9-16aeb4b6a3d1) -->
 
